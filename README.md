@@ -19,11 +19,11 @@ This project analyzes sentiment from Bitcoin-related tweets and compares the sen
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Bhargavmupparisetty/Bitcoin-Trend-Analysis-using-LSTM-.git
+   git clone https://github.com/Bhargavmupparisetty/Bitcoin-Sentiment-and-Trend-Analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Bitcoin-Trend-Analysis-using-LSTM-
+   cd Bitcoin-Sentiment-and-Trend-Analysis
    ```
 
 ## Usage
